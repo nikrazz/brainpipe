@@ -1,0 +1,23 @@
+baseURL = 'https://brainpipe.io/'
+languageCode = 'en-us'
+title = 'Brainpipe'
+theme = 'archie'
+copyright = "© Nikolai Razouvaev"
+paginate = 3 # articles per page
+
+[params]
+mode = "auto" # color-mode → light,dark,toggle or auto
+useCDN = false # don't use CDNs for fonts and icons, instead serve them locally.
+subtitle = 'Piping Crimethink Since 1984'
+
+# Main menu
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
