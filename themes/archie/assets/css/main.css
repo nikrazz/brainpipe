@@ -9,7 +9,7 @@
 }
 html {
   color: var(--textcolor);
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Fira Sans', sans-serif;
   font-size: 16px;
   line-height: 1.6em;
 }
@@ -27,7 +27,6 @@ body {
 }
 
 p {
-  font-family: 'Fira Sans', sans-serif;
   line-height: 1.5;
 }
 
@@ -196,8 +195,7 @@ article .title {
   padding: 1em;
 }
 
-.callout p {
-  font-family: 'IBM Plex Mono', monospace;
+.callout p {  
   margin: 0;
 }
 
