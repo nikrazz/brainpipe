@@ -23,6 +23,6 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "Subscribe with RSS"
+name = "RSS feed"
 url = "/index.xml"
 weight = 3

@@ -127,7 +127,7 @@ pre code {
   margin-bottom: 4em;
   margin-left: auto;
   margin-right: auto;
-  max-width: 800px;
+  max-width: 600px;
   padding: 0 1ch;
   word-wrap: break-word;
 }
@@ -178,6 +178,10 @@ footer {
   margin: 15px 0;
 }
 
+.main {
+  font-weight: 700;
+}
+
 time {
   color: grey;
 }
@@ -195,7 +199,7 @@ article .title {
   padding: 1em;
 }
 
-.callout p {  
+.callout p {
   margin: 0;
 }
 
@@ -213,7 +217,7 @@ display: flex;
 justify-content: space-between;
 }
 .tags li::before{
-  content: "Tag: ";
+  content: "Tags: ";
 }
 .tags a{
   border-bottom: 2px solid var(--maincolor);
