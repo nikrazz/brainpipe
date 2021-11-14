@@ -2,7 +2,6 @@
 :root{
 --maincolor: red;
 --textcolor: lightslategray;
---bordercl:gray;
 --callouctcolor:dodgerblue;
 --hovercolor:slategray;
 --darkMaincolor: #50fa7b;
@@ -37,10 +36,10 @@ hr {
 }
 
 blockquote {
-  border-left: 3px solid var(--bordercl);
-  color: #737373;
-  margin: 0;
+  border-left: 3px solid var(--textcolor);
+  margin: 0 0 0 2em;
   padding-left: 1em;
+  font-style: italic;
 }
 
 a {
