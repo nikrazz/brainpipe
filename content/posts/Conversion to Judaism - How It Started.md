@@ -39,7 +39,7 @@ My faith boat sailed with tailwind for 21 years until one day the wind stopped b
 
 ## The Axiom of a World View
 
-Every world view has to have its first, starting axiom. Without one, you have nothing. It can be whatever you want but you have to start somewhere. I started with 'the Bible alone...'. The 'Bible' stood for 39 books of the Old and 27 New Testament books.
+Every world view has to have its first, starting axiom. Without one, you have nothing. It can be whatever you want but you have to start somewhere. I started with 'the Bible alone...' The 'Bible' stood for 39 books of the Old and 27 New Testament books.
 
 The Old Testament stands on its own. If it's the Word of God written (and I believe it is), it doesn't need the other 27 books. That is, it's possible the 39 books of the Hebrew Bible are the Word of God written and the 27 books are not. This is Judaism (the foundation of). 
 
