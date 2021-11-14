@@ -1,5 +1,5 @@
 ---
-title: "Conversion to Judaism   How It Started"
+title: "Conversion to Judaism: How It Started"
 date: 2021-11-14T18:34:38+11:00
 draft: false
 tags: [Conversion to Judaism]
