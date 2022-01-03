@@ -2,7 +2,7 @@
 title: "The Sons of God and the Nephilim in Genesis 6:1-4"
 date: 2022-01-04T05:19:31+11:00
 draft: false
-tags: [Nephilim], [Genesis]
+tags: [Nephilim]
 ---
 Soon after my conversion to Christianity, my family and I moved from Montreal to Sydney and started going to a local Baptist church. Pastor Daryl took us under his spiritual wing and offered to walk us through the Bible to give us an overview of Christian beliefs. We agreed.
 
